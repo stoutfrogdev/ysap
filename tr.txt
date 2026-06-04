@@ -1,0 +1,16 @@
+/Users/pheath/.local/bin
+/Users/pheath/google-cloud-sdk/bin
+/opt/homebrew/bin
+/opt/homebrew/sbin
+/usr/local/bin
+/System/Cryptexes/App/usr/bin
+/usr/bin
+/bin
+/usr/sbin
+/sbin
+/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin
+/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin
+/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+/pkg/env/global/bin
+/Users/pheath/.local/bin
+tr is translate, it will change/translate txt to another type as specified
