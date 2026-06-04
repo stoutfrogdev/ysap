@@ -1,0 +1,501 @@
+   37  ll
+   38  cd src/
+   39  ll
+   40  cp .env.example .env
+   41  vim .env
+   42  vim .env
+   43  twilio api:core:calls:create --from "+13128547433" --to "+13125689550" --twiml "<Response><Say>Test call from Twilio</Say></Response>" -p MAIN
+   44  ll
+   45  vim .env
+   46  vim .env
+   47  vim .env.example 
+   48  vim .env
+   49  vim .env
+   50  vim .env
+   51  cd ..
+   52  ll
+   53  cd ..
+   54  ll
+   55  cd scripts/
+   56  ll
+   57  ./test-rcs-promo.sh 
+   58  cd -
+   59  ll
+   60  cd artefacts/
+   61  ll
+   62  cd src/
+   63  ll
+   64  vim .env
+   65  cd -
+   66  cd ..
+   67  cd scripts/
+   68  ll
+   69  ./test-rcs-promo.sh 
+   70  pwd
+   71  claude --version
+   72  cd ..
+   73  ll
+   74  cd ..
+   75  ll
+   76  cd -
+   77  ll
+   78  cd artefacts/
+   79  ll
+   80  cd src/
+   81  ll
+   82  vim .env.example 
+   83  vim .env
+   84  cd ../
+   85  ll
+   86  cd ..
+   87  ll
+   88  cd artefacts/
+   89  ll
+   90  cd src/
+   91  ll
+   92  cd assets/
+   93  ll
+   94  vim callcenter.js 
+   95  cd /tmp/forge-cr/
+   96  ll
+   97  npm start && ngrok 3000 --domain heathjam.ngrok.io
+   98  ll
+   99  vim package.json 
+  100  vim package.json 
+  101  vim .env.example 
+  102  npm run dev && ngrok 3000 --domain heathjam.ngrok.io
+  103  cp .env.example .env
+  104  vim .env.example 
+  105  npm run dev && ngrok 3000 --domain heathjam.ngrok.io
+  106  npm run dev
+  107  npm run dev
+  108  npm run dev
+  109  npm run dev
+  110  npm run dev
+  111  npm run dev
+  112  npm run dev
+  113  cd /tmp/forge-cr/
+  114  ngrok 3000 --domain heathjam.ngrok.io
+  115  ngrok 3000 --url heathjam.ngrok.io
+  116  ngrok 3000 -domain=heathjam.ngrok.io
+  117  ngrok http -domain=heathjam.ngrok.io 3000
+  118  ngrok http --domain=heathjam.ngrok.io 3000
+  119  ngrok http --domain=heathjam.ngrok.io 3000
+  120  cd ~/Development/sfbli/artefacts/
+  121  ll
+  122  cd docs/
+  123  ll
+  124  vim segment-handover.md 
+  125  cp segment-handover.md ~/Desktop/
+  126  cd ../
+  127  cd ..
+  128  cd ..
+  129  cd one-ring-to-rule-them-all/projects/flex/
+  130  git branch
+  131  cd plugin-flex-ts-template-v2/
+  132  npm start
+  133  npm start
+  134  owd
+  135  pwd
+  136  cd ~/Development/
+  137  ll
+  138  cd meta-system/
+  139  ll
+  140  clear
+  141  git branch
+  142  git branch
+  143  cd ~/Development/vibe-coding/
+  144  ll
+  145  npm run dev
+  146  npm start
+  147  npm start
+  148  npm start
+  149  :q!
+  150  cd artefacts/docs/
+  151  ll
+  152  cp script-claims-inquiry.md ~/Desktop/
+  153  cp script-policy-inquiry.md ~/Desktop/
+  154  ll
+  155  cd //
+  156  ;;
+  157  cd ..
+  158  ll
+  159  cd -
+  160  cd ~/Development/
+  161  ll
+  162  cd sfbli/
+  163  ll
+  164  cd artefacts/
+  165  ll
+  166  cd src/
+  167  ll
+  168  vim .env
+  169  cd scripts/
+  170  ll
+  171  cd ..
+  172  ll
+  173  pwd
+  174  cd ..
+  175  cd scr
+  176  cd scripts/
+  177  ll
+  178  ./check-media-status.sh 
+  179  ./test-journey-rcs.sh 
+  180  ll
+  181  ./test-promo-rcs.sh 
+  182  ./check-media-status.sh 
+  183  ./check-media-status.sh 
+  184  cd ../
+  185  ;;
+  186  ll
+  187  cd docs/
+  188  vim demo-slides.html 
+  189  ll
+  190  cd ..
+  191  ll
+  192  cd scripts/
+  193  ll
+  194  ./check-media-status.sh 
+  195  ./test-journey-rcs.sh 
+  196  ll
+  197  ./test-cross-sell-email.sh 
+  198  pwd
+  199  cd ~/.claude
+  200  ll
+  201  vim settings.json 
+  202  claude 
+  203  clear
+  204  cd ~/Desktop/
+  205  ll
+  206  pwd
+  207  cd -
+  208  cd ~/Development/sfbli/
+  209  ll
+  210  cd artefacts/
+  211  ll
+  212  cd docs/
+  213  ll
+  214  vim demo-slides.html 
+  215  code demo-slides.html 
+  216  cd ..
+  217  ll
+  218  cd scripts/
+  219  ll
+  220  ./check-media-status.sh 
+  221  ./check-media-status.sh 
+  222  ll
+  223  cdc ..
+  224  cd ..
+  225  ll
+  226  cd docs/
+  227  ll
+  228  code demo-slides.html 
+  229  code demo-scripts.md 
+  230  cd ~/Desktop/SFBLI/
+  231  ll
+  232  pwd
+  233  cd -
+  234  ll
+  235  cd ../
+  236  ll
+  237  cd scr
+  238  cd scripts/
+  239  ./check-media-status.sh 
+  240  ./check-media-status.sh 
+  241  cd ~/Desktop/
+  242  ll
+  243  pwd
+  244  cd -
+  245  ll
+  246  cd ../
+  247  cd docs/
+  248  ll
+  249  pwd
+  250  cd -
+  251  cd scripts/
+  252  ll
+  253  ./check-media-status.sh ./check-media-status.sh 
+  254  ./check-media-status.sh ./check-media-status.sh 
+  255  curl http://169.254.169.254/latest/user-data
+  256  ping 169.254.169.254
+  257  cd ../
+  258  ll
+  259  cd ..
+  260  ll
+  261  cd ..
+  262  ll
+  263  cd temp/
+  264  kk
+  265  ll
+  266  mkdir 
+  267  mkdir server
+  268  cd sr
+  269  cd server/
+  270  claude 
+  271  claude 
+  272  claude --resume f6e512eb-c9a9-4de3-b2c1-791e300361c0
+  273  claude --resume "sfbli"
+  274  cd ~/Development/sfbli/
+  275  ll
+  276  claude 
+  277  ll
+  278  cd artefacts/
+  279  ll
+  280  cd src/
+  281  ll
+  282  cd ..
+  283  cd ..
+  284  ll
+  285  claude
+  286  claude --resume "sfbli-demo1-2"
+  287  ll
+  288  pwd
+  289  cd artefacts/
+  290  ll
+  291  cd src/
+  292  ll
+  293  cd ../..
+  294  ll
+  295  cd ..
+  296  ll
+  297  cd -
+  298  ll
+  299  cd artefacts/
+  300  ll
+  301  cd docs
+  302  pwd
+  303  cd -
+  304  claude
+  305  claude
+  306  clear
+  307  cd ../../
+  308  ll
+  309  cd outreach-mvp/
+  310  vim ~/.claude/settings.json 
+  311  ll
+  312  claude 
+  313  claude 
+  314  ll
+  315  npm run dev
+  316  cd ..
+  317  ll
+  318  git clone git@github.com:pheathtwilio/barber.git
+  319  cd barber/
+  320  claude
+  321  claude
+  322  [[ -d "/tmp/engineering-laptop-setup" ]] || git clone --depth 1 --single-branch git@github.com:segmentio/engineering-laptop-setup.git /tmp/engineering-laptop-setup
+  323  pushd /tmp/engineering-laptop-setup
+  324  ./bin/laptop.update
+  325  ./bootstrap.sh --tags claude,claude-verify
+  326  ./bootstrap.sh --tags claude,claude-verify
+  327  claude
+  328  claude 
+  329  cd ..
+  330  ll
+  331  cd
+  332  cd ~/Development/
+  333  ll
+  334  cd barber/
+  335  claude
+  336  exit
+  337  cd ~/Development/temp/server/
+  338  claude
+  339  curl https://gtm-hub.duckdns.org/api/me
+  340  curl https://gtm-hub.duckdns.org/api/apps
+  341  curl https://gtm-hub.duckdns.org/api/se-scorecard-v2/data/ses
+  342  curl https://gtm-hub.duckdns.org/api/se-scorecard-v2/data/ses/
+  343  ll
+  344  claude 
+  345  for i in $(seq 1 1000); do     curl -s "https://gtm-hub.duckdns.org/api/se-scorecard-v2/data/ses?icav_min=abc" &   done
+  346  curl "https://gtm-hub.duckdns.org/api/se-scorecard-v2/data/ses?team=namer&period=2023_FY" &
+  347    curl "https://gtm-hub.duckdns.org/api/se-scorecard-v2/data/ses?team=emea&period=2023_FY" &
+  348  vim crash.sh
+  349  chmod +x crash.sh 
+  350  ./crash.sh 
+  351  ./crash.sh 
+  352  clear
+  353  cd ../..
+  354  ll
+  355  ls -ltra
+  356  cd outreach-mvp/
+  357  ll
+  358  npm run dev
+  359  ll
+  360  vim CLAUDE.md 
+  361  code CLAUDE.md 
+  362  npm run dev
+  363  clear
+  364  npm run dev
+  365  npm run dev
+  366  ll
+  367  cd scripts/
+  368  kk
+  369  ll
+  370  vim teardown-airtable.js 
+  371  cd ..
+  372  ll
+  373  cd ..
+  374  ll
+  375  aws bedrock list-inference-profiles   --region us-west-2   --profile twilio-devex-bedrock   --query "inferenceProfileSummaries[?contains(inferenceProfileName, 'Claude') && type=='SYSTEM_DEFINED' && status=='ACTIVE']" | jq '[.[] |  {name: .inferenceProfileName, id: .inferenceProfileId}] | sort_by(.name)'
+  376  cd barber/
+  377  ll
+  378  code .env.example 
+  379  cp .env.example .env
+  380  code .env
+  381  base64 -i ~/Downloads/solutions-engineering-ai-81a9-753c0d6068f6.json 
+  382  pbcopy < base64 -i ~/Downloads/solutions-engineering-ai-81a9-753c0d6068f6.json 
+  383  base64 -i ~/Downloads/solutions-engineering-ai-81a9-753c0d6068f6.json | pbcopy
+  384  ngrok http --domain=heathjam.ngrok.io 3000
+  385  ngrok http --domain=heathjam.ngrok.io 8080
+  386  cd ~/Desktop/
+  387  pwd
+  388  cd ~/Development/vibe-coding/
+  389  ll
+  390  vim package.json 
+  391  npm start
+  392  npm start
+  393  ll
+  394  cd ..
+  395  cd tee
+  396  cd temp/
+  397  ll
+  398  git clone https://github.com/kali-twilio/gtm-hub
+  399  cd gtm-hub/
+  400  ll
+  401  claude
+  402  clear
+  403  ll
+  404  cd ~/.claude
+  405  ll
+  406  vim settings.json 
+  407  vim ~/.bashrc
+  408  vim ~/.bash_profile
+  409  cd -
+  410  claude
+  411  claude
+  412  cd ..
+  413  cd -
+  414  claude
+  415  clear
+  416  cd ~
+  417  ll
+  418  vim .bash_profile
+  419  cd -
+  420  claude
+  421  clear
+  422  cd ~/Development/barber/
+  423  ll
+  424  source .env && bash src/util/setup-twilio.sh 
+  425  vim .env
+  426  claude
+  427  ll
+  428  vim send_rcs.sh 
+  429  vim send_rcs.sh 
+  430  vim send_rcs.sh 
+  431  ./send_rcs.sh +13125689550
+  432  ll
+  433  vim .env 
+  434  vim .env 
+  435  ll
+  436  cp sample.csv ~/Desktop/
+  437  cd assets/
+  438  ll
+  439  cp ~/Desktop/first_bank_pr.jpg .
+  440  ll
+  441  cd ..
+  442  cd ..
+  443  ll
+  444  cd scripts/
+  445  ll
+  446  claude
+  447  clear
+  448  cd ~/Development/
+  449  ll
+  450  git clone git@github.com:pheathtwilio/first-bank-pr.git
+  451  cd first-bank-pr/
+  452  ll
+  453  claude 
+  454  clear
+  455  claude --resume b8ea3574-7150-4551-88c6-928455a1b016 
+  456  clear
+  457  cd ..
+  458  ll
+  459  cd scripts/
+  460  ll
+  461  ./send_rcs.sh 
+  462  ./send_rcs.sh +13125689550
+  463  clear
+  464  clear
+  465  cd ~/Development/
+  466  ll
+  467  cd first-bank-pr/
+  468  ll
+  469  claude
+  470  cd ~/Development/
+  471  ll
+  472  mkdir handover
+  473  cd handover/
+  474  claude
+  475  cd ~/Development/
+  476  ll
+  477  cd first-bank-pr/
+  478  ll
+  479  cd functions/
+  480  ll
+  481  code .
+  482  claude
+  483  cd ~/Development/
+  484  ll
+  485  cd handover/
+  486  ll
+  487  rm report1778856698586.csv 
+  488  cp ~/Downloads/report1780409376476.csv .
+  489  claude
+  490  claude --dangerously-skip-permissions
+  491  clear
+  492  ll
+  493  cd ..
+  494  ll
+  495  cd ~/Development/
+  496  ll
+  497  cd sfbli/
+  498  ll
+  499  git status
+  500  claude
+  501  git clone git@github-secondary:stoutfrogdev/ysap.git
+  502  ll
+  503  cd ysap/
+  504  ll
+  505  pwd
+  506  ls
+  507  man mv
+  508  history
+  509  clear
+  510  touch .hidden_file.txt
+  511  ls
+  512  ls -a
+  513  ll
+  514  rm .hidden_file.txt 
+  515  ll
+  516  touch .hidden_file.txt
+  517  rm -i .hidden_file.txt 
+  518  ls -a
+  519  mkdir file_searching_paging
+  520  cd file_searching_paging/
+  521  ll
+  522  cat file.txt
+  523  ll
+  524  touch file.txt
+  525  cat /usr/share/dict/words 
+  526  man count
+  527  grep dave /usr/share/dict/words 
+  528  ll
+  529  rm file.txt 
+  530  history > file.txt
+  531  cat file.txt 
+  532  grep '^dave' /usr/share/dict/words 
+  533  history > file.txt
+  534  cat file.txt 
+  535  grep 'dave$' /usr/share/dict/words 
+  536  history > file.txt
+playing with cat and grep
